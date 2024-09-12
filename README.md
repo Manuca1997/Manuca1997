@@ -1,6 +1,5 @@
 ## Olá, Eu sou o Emanuel Soares de lima :)
 - Tenho 27 anos, sou Autodidata.
-- Aluno B7 - Bonieky.
 - Turma 7 do ONE-Alura.
 - Trabalhando em Projetos Pessoais.
 - Estudante de Programação, no momento estou Estudando JavaScript.
